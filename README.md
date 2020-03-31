@@ -29,3 +29,7 @@ Ready to learn?
  - All people who have been using liborbis
  - All ps3dev and ps2dev old comrades
  
+  License
+===========================
+
+raylib is licensed under an unmodified zlib/libpng license, which is an OSI-certified, BSD-like license that allows static linking with closed source software. Check [LICENSE](LICENSE) for further details.
